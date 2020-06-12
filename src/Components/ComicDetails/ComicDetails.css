@@ -1,0 +1,29 @@
+.infoDialog {
+    display: inline-flex;
+    position: relative; 
+    width: 100%;
+}
+.details{
+    width: 60%;
+}
+.image
+{
+    margin-left: 20%;
+    position: relative;
+    height: 100%;
+    width: 450px;
+}
+.imageLimits
+{
+    position: relative;
+    width: 100%;
+}
+.comictitle
+{
+    font-style:oblique;
+    font: bold;
+    font-size: 32px;
+}
+.MuiDialog-paperWidthSm {
+    max-width: 85%;
+}

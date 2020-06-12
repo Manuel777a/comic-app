@@ -1,0 +1,41 @@
+.comicList{
+    display:inline-block;
+}
+.comicGrid{
+    display:inline-block;
+}
+.coverIcon{
+    height: 600px;
+    width: 100%;
+    top: 0;
+    left: 0;
+    text-align: left;
+}
+.coverIconList
+{
+    height: 350px;
+    width: 250px;
+    top: 0;
+    left: 0;
+    text-align: left;
+}
+.info{
+        width: 100%;
+}
+.infoList{
+    margin-left:2%;
+    
+}
+.comicDate{
+    font-size: 10pt;
+    color: gray;
+    font-style: bold;
+}
+.MuiPaper-root{
+    height: 100%;
+    width: 100%;
+}
+.MuiPaper-rootList{
+    display:  flex;
+}
+

@@ -1,0 +1,7 @@
+.item{
+    display:inline-flex;
+}
+.title{
+    font-size: 24px;
+    font-style: oblique;
+}
